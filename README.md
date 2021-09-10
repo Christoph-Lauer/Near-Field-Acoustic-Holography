@@ -7,6 +7,6 @@ We implement here an acoustic near field algorithm which shift the z-axis in the
 
 ![alt text](ani.gif)
 
-## The LOUD microphone array
+## The LOUD microphone array from MIT
 
 ![alt text](array.jpg)
