@@ -1,4 +1,4 @@
-# Near-Field-Acoustic_Holography
+# Near-Field-Acoustic-Holography
 An Matlab implementation of an fft based near-field acoustic holography algorithm (NAH)
 
 ## Concept
