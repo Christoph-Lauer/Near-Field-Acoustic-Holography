@@ -1,5 +1,5 @@
 # Near-Field-Acoustic-Holography
-An Matlab implementation of an fft based near-field acoustic holography algorithm (NAH)
+An Matlab implementation of a fft based near-field acoustic holography algorithm (NAH)
 
 ## Concept
 
@@ -7,6 +7,6 @@ We implement here an acoustic near field algorithm which shift the z-axis in the
 
 ![alt text](ani.gif)
 
-## The LOUD microphone array from MIT
+## The LOUD microphone array from the MIT
 
 ![alt text](array.jpg)
